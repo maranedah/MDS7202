@@ -9,3 +9,4 @@
 | 2      | 24-08 | Programacion orientada a objetos, programacion modular | Mauricio       |
 | 2      | 25-08 | Lab 0: Ejercicios en Python (Sin Nota)                 | Equipo Docente |
 
+
