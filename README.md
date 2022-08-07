@@ -1,4 +1,4 @@
-# MDS7202 - 2021-1
+# MDS7202 - 2022-2
 
 Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos
 
@@ -21,12 +21,14 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - Foro de ucursos para cualquier duda de los contenidos del curso y administrativas. Todos los mails con consultas al equipo docente serán redirigidos al foro. Idea detrás de esto: La colaboración entre equipos.
 - Zoom: Cátedras.
 - Discord: Laboratorios.
-- Github: Material docente
+- Github: Material docente.
+
 
 ## Equipo Docente Histórico
 
-Muchas gracias por su participación!
+- Pablo Badilla, gracias por todo el conocimiento y material difundido en las tres versiones del curso realizadas!
 
-- Pablo Badilla (2021-Primavera)
+También damos gracias por su participación a los siguientes integrantes del cuerpo docente:
+
 - Constanza F. Peña (2021-Primavera)
 - Diego Irarrázaval Infante (2021-Otoño)
