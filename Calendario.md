@@ -3,7 +3,7 @@
 | Semana | Fecha | Tema                                                   | Profesor       |
 |--------|-------|--------------------------------------------------------|----------------|
 | 1      | 08-08 | Introduccion al curso. Markdown y Colab.               | Matias         |
-| 1      | 10-08 | Intro a la Programacion en Python                      | Mauricio       |
+| 1      | 10-08 | Github - Intro a la Programacion en Python                      | Mauricio       |
 | 1      | 12-08 | No hay Lab                                             |                |
 | 2      | 15-08 | Funciones, scope, map filter y reduce, mutabilidad.    | Matias         |
 | 2      | 17-08 | Programacion orientada a objetos, programacion modular | Mauricio       |
