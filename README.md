@@ -6,7 +6,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - Auxiliar: [Ignacio Meza](https://github.com/Mezosky).
 - Ayudante: Rodrigo Guerra
 - [Calendario](https://github.com/maranedah/MDS7202/blob/main/Calendario.md)
-- [Playlist con las clases en Youtube]() TBD
+- [Playlist con las clases en Youtube](https://youtube.com/playlist?list=PLVyJiFYrN5fWcsdF5tYZMOZTI1vAW1Y5h) 
 
 # Reglas del curso
 
