@@ -14,7 +14,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - Los laboratorios serán realizados en horario de auxiliar.
 - Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales.
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia.
-- Mayor información y reglas detalladas: [Introducción al curso]() TBD
+- Mayor información y reglas detalladas: [Introducción al curso](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%201%20-%20Introducci%C3%B3n%20al%20curso/Presentaci%C3%B3n/MD7202%20-%20Introducci%C3%B3n.pptx) 
 
 ## Canales de comunicación
 
