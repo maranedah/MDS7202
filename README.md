@@ -8,7 +8,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - [Calendario](https://github.com/maranedah/MDS7202/blob/main/Calendario.md)
 - [Playlist con las clases en Youtube](https://youtube.com/playlist?list=PLVyJiFYrN5fWcsdF5tYZMOZTI1vAW1Y5h) 
 
-# Clases en Google Slides
+# Clases
 
 - [Clase 1 - Introducción al curso](https://docs.google.com/presentation/d/1GW3zGdJHZ2QKDyr_r1q7LSfHwkHHAuj2rqqlQmiY8bA/edit?usp=sharing)
 - [Clase 2 - Introducción a Python](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%202%20-%20Introduccion%20a%20Python/Notebook/02_Intro_a_la_programacion_en_python.ipynb)
