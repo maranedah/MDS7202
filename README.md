@@ -10,8 +10,9 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 
 # Clases
 
-- [Clase 1 - Introducción al curso](https://docs.google.com/presentation/d/1GW3zGdJHZ2QKDyr_r1q7LSfHwkHHAuj2rqqlQmiY8bA/edit?usp=sharing)
+- [Clase 1 - Introducción al Curso](https://docs.google.com/presentation/d/1GW3zGdJHZ2QKDyr_r1q7LSfHwkHHAuj2rqqlQmiY8bA/edit?usp=sharing)
 - [Clase 2 - Introducción a Python](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%202%20-%20Introduccion%20a%20Python/Notebook/02_Intro_a_la_programacion_en_python.ipynb)
+- [Clase 3 - Programación Funcional y GIT](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%203%20-%20Programacion%20Funcional%20y%20Git/03_Programacion_Funcional.ipynb)
 
 # Reglas del curso
 
