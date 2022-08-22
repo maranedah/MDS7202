@@ -13,6 +13,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - [Clase 1 - Introducción al Curso](https://docs.google.com/presentation/d/1GW3zGdJHZ2QKDyr_r1q7LSfHwkHHAuj2rqqlQmiY8bA/edit?usp=sharing)
 - [Clase 2 - Introducción a Python](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%202%20-%20Introduccion%20a%20Python/Notebook/02_Intro_a_la_programacion_en_python.ipynb)
 - [Clase 3 - Programación Funcional y GIT](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%203%20-%20Programacion%20Funcional%20y%20Git/03_Programacion_Funcional.ipynb)
+- [Clase 4 - Programación Orientada a Objetos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%204%20-%20Programaci%C3%B3n%20Orientada%20a%20Objetos/MDS7202_Clase_4_POO.ipynb)
 
 # Reglas del curso
 
@@ -32,9 +33,10 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 
 ## Equipo Docente Histórico
 
-- Pablo Badilla, gracias por todo el conocimiento y material difundido en las tres versiones del curso realizadas!
+- Pablo Badilla (Profesor de catedra Otoño 2021 a Otoño 2022) - Gracias por todo el conocimiento y material difundido en las tres versiones del curso realizadas!
 
 También damos gracias por su participación a los siguientes integrantes del cuerpo docente:
 
-- Constanza F. Peña (2021-Primavera)
-- Diego Irarrázaval Infante (2021-Otoño)
+- Patricio Ortiz (Ayudante Otoño 2022)
+- Constanza F. Peña (Ayudante Primavera 2021)
+- Diego Irarrázaval Infante (Ayudante Otoño 2021)
