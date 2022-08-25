@@ -10,4 +10,7 @@
 | 2      | 18-08 | Lab 0: Ejercicios en Python (Sin Nota).                 | Equipo Docente |
 | 3      | 22-08 | Programacion orientada a objetos.                 | Matías |
 | 3      | 24-08 | Excepciones, Decoradores, Generadores y Módulos/Librerías                 | Mauricio |
-| 3      | 25-08 | Lab 1: Python y Git.                | Equipo Docente |
+| 3      | 25-08 | Lab 1: Manejo de funciones y clases.                | Equipo Docente |
+| 4      | 29-08 | Todo sobre Numpy                | Matías |
+| 4      | 31-08 | Scipy y Datos Tabulares con Pandas               | Mauricio |
+| 4      | 01-09 | Lab 2: Manejo de imágenes con Numpy.                | Equipo Docente |
