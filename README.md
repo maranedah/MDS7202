@@ -15,6 +15,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - [Clase 3 - Programación Funcional y GIT](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%203%20-%20Programacion%20Funcional%20y%20Git/03_Programacion_Funcional.ipynb)
 - [Clase 4 - Programación Orientada a Objetos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%204%20-%20Programaci%C3%B3n%20Orientada%20a%20Objetos/MDS7202_Clase_4_POO.ipynb)
 - [Clase 6 - Numpy](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%206%20-%20Numpy/MDS7202_Clase_6_Numpy.ipynb)
+- [Clase 8 - Reorganización y agrupación de datos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%208%20-%20Pandas%20-%20Parte%20II/Clase_8_Reorganizacion_Agregaciones.ipynb)
 
 # Reglas del curso
 
