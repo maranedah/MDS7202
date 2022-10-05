@@ -19,6 +19,9 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - [Clase 7 - Scipy + Pandas](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%207%20-%20Scipy%20%2B%20Pandas/Clase_7_Introduccion_Datos_Tabulares_Pandas.ipynb)
 - [Clase 8 - Reorganización y agrupación de datos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%208%20-%20Pandas%20-%20Parte%20II/Clase_8_Reorganizacion_Agregaciones.ipynb)
 - [Clase 9 - Concatenacion y Merge](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%209%20-%20Concatenacion%20y%20Merge/Clase_9_Concatenacion_combinacion_fuentes_de_datos.ipynb)
+- [Clase 10 - Trabajando Con Distintos Tipos de Datos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2010%20-%20Trabajando%20Con%20Distintos%20Tipos%20de%20Datos/Clase_10_Trabajo_con_distintos_tipos_de_datos.ipynb)
+- [Clase 11 - Visualizaciones](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2011%20-%20Visualizaciones/Clase_11_Visualizaciones.ipynb)
+- [Clase 12 - Análisis Exploratorio de Datos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2012%20-%20An%C3%A1lisis%20Exploratorio%20de%20Datos%20(EDA)/Clase_12_Analisis_Exploratorio_de_Datos.ipynb)
 
 # Reglas del curso
 
