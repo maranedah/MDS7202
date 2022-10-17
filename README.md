@@ -22,6 +22,11 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 - [Clase 10 - Trabajando Con Distintos Tipos de Datos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2010%20-%20Trabajando%20Con%20Distintos%20Tipos%20de%20Datos/Clase_10_Trabajo_con_distintos_tipos_de_datos.ipynb)
 - [Clase 11 - Visualizaciones](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2011%20-%20Visualizaciones/Clase_11_Visualizaciones.ipynb)
 - [Clase 12 - Análisis Exploratorio de Datos](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2012%20-%20An%C3%A1lisis%20Exploratorio%20de%20Datos%20(EDA)/Clase_12_Analisis_Exploratorio_de_Datos.ipynb)
+- [Clase 13 - Preprocesamiento de Datos y Scikit Learn](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2013%20-%20Preprocesamiento%20de%20Datos%20y%20Scikit%20Learn/Clase-13_Preprocesamiento%20con%20Scikit-Learn.ipynb)
+- [Clase 14 - Manejo de Valores Faltantes](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2014%20-%20Manejo%20de%20Valores%20Faltantes/Clase_14_Manejo_de_Valores_Faltantes.ipynb)
+- [Clase 15 - Outliers y Baja Dimensionalidad](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2015%20-%20Outliers%20y%20Baja%20Dimensionalidad/Clase_15-Deteccion_Anomalias_Visualizacion_Baja_Dimensionalidad.ipynb)
+- [Clase 16 - Clustering](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2016%20-%20Clustering/16_Clustering.ipynb)
+- [Clase 17 - Introducción al Aprendizaje Supervisado](https://github.com/maranedah/MDS7202/blob/main/clases/Clase%2017%20-%20Introducci%C3%B3n%20al%20Aprendizaje%20Supervisado/Aprendizaje_Supervisado_1.ipynb)
 
 # Reglas del curso
 
